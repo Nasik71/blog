@@ -1,5 +1,6 @@
 # Hugo Example
 
+
 This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed with Vercel and zero configuration.
 
 ## Deploy Your Own
