@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Привет, друзья, это Настя!"
+title = "Анастасия Зависнова"
+theme = "ananke"
+title = "мой личный блог"
 theme = "ananke"
